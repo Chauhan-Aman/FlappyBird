@@ -15,7 +15,8 @@ uses NEAT to train neural networks to play Flappy Bird.
 Neural networks control the bird's jumping behavior
 based on input parameters such as bird position and
 pipe positions.
-## Technology Used
+
+## Technologies Used
 
 - Python
 - Pygame
